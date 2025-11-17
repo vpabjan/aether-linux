@@ -9,11 +9,15 @@ Preinstalled stuff:
  - Nemo (File manager)
 
 Aether running under KVM/qemu
-<img width="1920" height="1080" alt="2025-11-17-024021_hyprshot" src="https://github.com/user-attachments/assets/f86aa0d0-4936-46be-89b1-9d95bf7506d4" />
+Uploading 2025-11-17-031518_hyprshot.png…
 
 Aether running under KVM/qemu showcase video
 
-https://github.com/user-attachments/assets/40efdaff-fa9c-42fa-a51e-21e912445d51
+<img width="1920" height="1080" alt="2025-11-17-031518_hyprshot" src="https://github.com/user-attachments/assets/dcbc9d89-c1fe-4b26-8f2d-ddd00d9beda8" />Aether running under kvm/qemu
+
+https://github.com/user-attachments/assets/ef3a8bfa-7e61-4d81-afbc-b394cfce0c19
+
+
 
 
 Helper utilities for getting drivers, software, changing settings and other features are being worked on.
