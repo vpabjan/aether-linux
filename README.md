@@ -91,9 +91,12 @@ This configuration makes personal use ideal.
 
 # Screenshots/recordings
 
-<img width="1920" height="1080" alt="2025-11-17-031518_hyprshot" src="https://github.com/user-attachments/assets/dcbc9d89-c1fe-4b26-8f2d-ddd00d9beda8" />Aether running under kvm/qemu
+## <img width="1616" height="1010" alt="scr" src="https://github.com/user-attachments/assets/8c5c0fdc-e0ff-4b08-bb24-f3c1e1345d48" />
+screenshots
 
-https://github.com/user-attachments/assets/ef3a8bfa-7e61-4d81-afbc-b394cfce0c19
+## videos
+
+https://files.catbox.moe/5cu44c.mp4
 
 # Downloads
 [Latest ISO (aetherlinux-2025.11.17-x86_64)](https://mega.nz/file/WlwBED7B#L5c55MZvcBiGWWqUyJVzh7fgTLs3aiKtrWOdjxsPrUA)
