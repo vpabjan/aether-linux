@@ -1,4 +1,5 @@
-<img width="400" height="400" alt="aether-linux-logo" src="https://github.com/user-attachments/assets/dd960df7-26ea-47d4-814c-7bb714734059" />
+<img width="300" height="300" alt="aether-linux-logo(1)" src="https://github.com/user-attachments/assets/7433519d-60e4-449b-b229-9fe0e6df5113" />
+
 
 # Aether Linux
 
