@@ -1,3 +1,5 @@
+<img width="400" height="400" alt="aether-linux-logo" src="https://github.com/user-attachments/assets/dd960df7-26ea-47d4-814c-7bb714734059" />
+
 # Aether Linux
 
 Aether Linux is an Arch-based distribution focused on user-friendliness, aesthetics, and a clean Hyprland experience.  
