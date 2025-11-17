@@ -41,6 +41,8 @@ hyperv
 intel-ucode
 irssi
 iw
+plymouth
+imv
 iwd
 jfsutils
 kitty-terminfo
@@ -145,6 +147,7 @@ nodejs
 make
 cmake
 jre-openjdk
+swaylock
 bat
 bash
 rofi
@@ -165,3 +168,6 @@ ttf-nerd-fonts-symbols
 noto-fonts-emoji
 make
 python-pyqt6
+fastfetch
+hyprlock
+hypridle
