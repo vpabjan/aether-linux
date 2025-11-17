@@ -93,7 +93,7 @@ This configuration makes personal use ideal.
 
 ## screenshots
 
-<img width="1920" height="1080" alt="2025-11-17-190822_hyprshot" src="https://github.com/user-attachments/assets/76cbe059-cc1a-4ef8-a5ee-9a13771f9809" />
+<img width="1615" height="1011" alt="2025-11-17-201741_hyprshot" src="https://github.com/user-attachments/assets/40331eae-becb-4d1e-b409-5b10a259fef5" />
 <img width="1616" height="1010" alt="scr" src="https://github.com/user-attachments/assets/8c5c0fdc-e0ff-4b08-bb24-f3c1e1345d48" />
 <img width="1488" height="930" alt="2025-11-17-171302_hyprshot" src="https://github.com/user-attachments/assets/537879c7-348f-4934-90c0-ff2171b20e22" />
 <img width="1619" height="1011" alt="2025-11-17-171226_hyprshot" src="https://github.com/user-attachments/assets/c56757c5-4bfe-46ea-9ad5-4ee3861ac23a" />
