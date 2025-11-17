@@ -36,12 +36,15 @@ It is rolling-release and pulls directly from the official Arch Linux repositori
 - A hyprland configuration manager
 - Yay as part of the system (currently an install script is present)
 - Custom themes
-- Full configs for
-  - Hyprland (ready)
-  - Hyprpaper (ready)
-  - Alacritty (ready)
-  - Waybar (ready)
 - Aether Linux centre, a GUI program for managing settings and quick access (currently a python script)
+
+## Complete features
+- Full configs for:
+  - Hyprland
+  - Hyprpaper (A hint and non-hint wallpaper included)
+  - Alacritty
+  - Waybar
+- Customized GRUB
 
 <img width="1920" height="1080" alt="2025-11-17-031518_hyprshot" src="https://github.com/user-attachments/assets/dcbc9d89-c1fe-4b26-8f2d-ddd00d9beda8" />Aether running under kvm/qemu
 
