@@ -1,0 +1,8 @@
+plymouth:set-background-color 0 0 0
+logo = Image("logo.png")
+screen_width, screen_height = Window.GetSize()
+logo_x = (screen_width - logo:GetWidth()) / 2
+logo_y = (screen_height - logo:GetHeight()) / 2
+logo:SetPosition(logo_x, logo_y)
+logo:Draw()
+

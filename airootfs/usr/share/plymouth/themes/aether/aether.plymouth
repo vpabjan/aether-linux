@@ -1,0 +1,6 @@
+[Plymouth Theme]
+Name=Aether
+Description=Aether Linux Logo
+ModuleName=script
+ImageDir=/usr/share/plymouth/themes/aether
+
